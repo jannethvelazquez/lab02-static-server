@@ -1,0 +1,24 @@
+{
+  "name": "lab02-static-server",
+  "version": "0.0.0",
+  "description": "Servidor web estatico de node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jannethvelazquez/lab02-static-server.git"
+  },
+  "keywords": [
+    "node",
+    "static-server",
+    "web"
+  ],
+  "author": "janneth.paez03@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jannethvelazquez/lab02-static-server/issues"
+  },
+  "homepage": "https://github.com/jannethvelazquez/lab02-static-server#readme"
+}
